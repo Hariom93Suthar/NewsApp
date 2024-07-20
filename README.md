@@ -1,6 +1,6 @@
 # newsapp
 
-A new Flutter project.
+This is a Flutter-based news app that fetches and displays news articles using the News API.
 
 ## Getting Started
 
