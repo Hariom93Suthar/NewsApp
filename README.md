@@ -26,21 +26,18 @@ Tap on an article to read the full content in the browser.
 Use the menu to filter news by category or country.
 
 ## Built With
-Flutter - The UI toolkit
-
-News API - The API used to fetch news articles
+- Flutter - The UI toolkit
+- News API - The API used to fetch news articles
 
 
 ### Acknowledgments
-News API for providing the news data
-Flutter for the amazing framework
+- News API for providing the news data
+- Flutter for the amazing framework
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
