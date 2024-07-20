@@ -4,26 +4,26 @@ This is a Flutter-based news app that fetches and displays news articles using t
 
  ## Features
  
-1.Fetches news articles from the News API
-2.Displays headlines, images, and descriptions
-3.Allows users to read full articles in the browser
-4.Supports multiple categories and countries
+- Fetches news articles from the News API
+- Displays headlines, images, and descriptions
+- Allows users to read full articles in the browser
+- Supports multiple categories and countries
 
 
 # Getting Started
 
 ## Prerequisites
 
-Flutter SDK
-A News API key (You can get one from News API)
+- Flutter SDK
+- A News API key (You can get one from News API)
 
 ## Usage
 
-On the home screen, you can see the latest news articles.
+- On the home screen, you can see the latest news articles.
 
-Tap on an article to read the full content in the browser.
+- Tap on an article to read the full content in the browser.
 
-Use the menu to filter news by category or country.
+- Use the menu to filter news by category or country.
 
 ## Built With
 - Flutter - The UI toolkit
