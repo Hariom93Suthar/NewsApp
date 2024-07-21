@@ -30,7 +30,13 @@ This is a Flutter-based news app that fetches and displays news articles using t
 - News API - The API used to fetch news articles
 
 # ScreenShots
-![news1](https://github.com/user-attachments/assets/a06737ed-4c2c-4601-9219-515d53dcb565) ![news2](https://github.com/user-attachments/assets/53dbc640-320c-49eb-928d-2dec68fb7f77)  ![news2](https://github.com/user-attachments/assets/53dbc640-320c-49eb-928d-2dec68fb7f77) 
+
+![news3](https://github.com/user-attachments/assets/43f82f25-835d-412c-9291-596b97a96129)
+
+![news1](https://github.com/user-attachments/assets/a06737ed-4c2c-4601-9219-515d53dcb565) 
+
+![news2](https://github.com/user-attachments/assets/53dbc640-320c-49eb-928d-2dec68fb7f77)
+
 ### Acknowledgments
 - News API for providing the news data
 - Flutter for the amazing framework
